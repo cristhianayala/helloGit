@@ -5,4 +5,3 @@
 ### principal keys
 - increase2026
 - inprove our technical skills
-- espacio modificado
